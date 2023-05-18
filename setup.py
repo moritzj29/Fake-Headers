@@ -5,11 +5,11 @@ with open('README.md', 'r') as f:
 
 setup(
     name="fake-headers",
-    version="1.0.2-dw",
+    version="1.0.3",
     author="TheDevFromKer",
     license="MIT",
     description="Package for generate headers to http requests.",
-    url="https://github.com/TheDevFromKer/Fake-Headers",
+    url="https://github.com/moritzj29/Fake-Headers",
     packages=[str('fake_headers')],
     long_description=README,
     long_description_content_type="text/markdown",
